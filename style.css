@@ -149,8 +149,3 @@ body {
         grid-row: auto;
     }
 }
-@media (min-width: 1440px) {
-    body {
-        padding: 160px;
-    }
-}
